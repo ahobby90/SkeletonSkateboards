@@ -1,0 +1,38 @@
+body {
+    background-image: url(background.jpg)
+  }
+
+h1 {font-family:haettenschweiler,Geneva, Verdana, sans-serif;
+font-size: 1000%; color: red; text-align: center;
+}
+.navbar{font-family:haettenschweiler,Geneva,Verdana,sans-serif; font-size: 300%;}
+
+.carousel-inner {
+  width: 100%;
+  text-align: center;
+}
+
+.carousel-inner .item {
+  margin: 0 auto;
+}
+
+.carousel-inner .item img {
+  display: inline-block;
+  max-width: 100%;
+  height: auto;
+}
+
+P1 { font-family: san-serif, geneva, verdana; color: whitesmoke; font-size: 200%; margin-bottom: 50px;
+}
+
+P2{font-family: sans-serif, geneva, verdana; color: whitesmoke; font-size: 200%;
+}
+
+h2 {font-family:sans-serif, geveva, verdana; color: whitesmoke; font-size: 150%;
+}
+
+p3 {font-family:sans-serif, geveva, verdana; color: whitesmoke; font-size: 150%;
+}
+
+h3 {font-family:sans-serif, geveva, verdana; color: whitesmoke; font-size: 150%;
+}
